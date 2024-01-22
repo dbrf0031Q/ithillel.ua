@@ -1,0 +1,20 @@
+* {color: blue;font-size: 10px;font-family: Verdana, Geneva, Tahoma, sans-serif;background-color: rgb(255, 196, 231);}
+header {color: chartreuse; font-size: 50px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+h1 {color: aquamarine;}
+h2 {color: darkmagenta;}
+div { color: blueviolet;background-color: darksalmon;}
+.classes {color: brown;}
+#idSelector {
+    background-color: rgb(0, 255, 247);
+  }
+.psewdo {color: rgb(127, 198, 142); }
+.psewdotext {background-color: rgb(187, 0, 255);}
+p {color: cadetblue;}
+.psewdo {color: brown;}
+[href="www.google.com"] {
+    color: white;
+    text-decoration: underline dotted;
+  }
+  [href="https://webdesign.tutsplus.com/uk/the-30-css-selectors-you-must-memorize--net-16048t"] {
+    color: rgb(255, 255, 255); text-decoration: solid;font-size: 30px;
+  }
